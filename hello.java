@@ -1,4 +1,4 @@
-/*public class hello{
+public class hello{
      public static void main(String[] args) {
       float Num1 = 23;
       float Num2 = 13;
@@ -58,7 +58,7 @@ public class hello {
      Scanner Sc = new Scanner(System.in);
      System.out.println("Hi{Mr.Sathish}!");
    }
-} */
+} 
 import java.util.Scanner;
 public class hello{
      public static void main(String[] args) {
@@ -76,4 +76,5 @@ public class hello{
           System.out.println("The mul is" +mul);
           System.out.println("The div is" +Div);
      }
+
 }
